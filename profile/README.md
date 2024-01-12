@@ -1,4 +1,4 @@
-# ConradX Initiatives
+# ConradX Initiative
 Welcome to the ConradX AI Initiatives repository! This central hub serves as the focal point for all artificial intelligence (AI) endeavors within our organization. Here, you'll find a collection of repositories housing diverse projects related to conversational AI and other cutting-edge technologies.
 
 ## About ConradX 
