@@ -23,6 +23,6 @@ We welcome contributions from the community to enhance and expand our AI initiat
 Please review our Code of Conduct before participating in our AI initiatives.
 
 ## Contact
-If you have any questions, ideas, or just want to connect with our AI community, feel free to reach out at awais.kamran@conradlabs.com
+If you have any questions, ideas, or just want to connect with our AI community, feel free to reach out at awais.kamran@conradlabs.com or tayyab.waseem@conradlabs.com
 
 Thank you for being a part of ConradX AI Initiatives! Together, let's shape the future of AI.
