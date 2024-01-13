@@ -4,7 +4,7 @@ Welcome to the ConradX AI Initiatives repository! This central hub serves as the
 ## About ConradX 
 ConradX is committed to pushing the boundaries of AI innovation and harnessing the power of technology to drive positive change. Our AI initiatives encompass a wide stack of applications ranging from conversational AI, natural language processing, calling bot agents to machine learning driven initiatives.
 
-## Repositories
+## Highlighted Repositories
 - [chatbot-server](https://github.com/Conrad-X/chatbot-server): The main server for all of the conversational AI related projects.
 - [angular-chatbot-web](https://github.com/Conrad-X/angular-chatbot-web) An angular based client application for `chatbot-server`
 - [openai-voice-to-voice-bot](https://github.com/Conrad-X/openai-voice-to-voice-bot): OpenAI based voice to voice server built upon multiple approaches
