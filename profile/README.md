@@ -7,6 +7,7 @@ ConradX is committed to pushing the boundaries of AI innovation and harnessing t
 ## Highlighted Repositories
 - [chatbot-server](https://github.com/Conrad-X/chatbot-server): The main server for all of the conversational AI related projects.
 - [angular-chatbot-web](https://github.com/Conrad-X/angular-chatbot-web) An angular based client application for `chatbot-server`
+- [react-chatbot-web](https://github.com/Conrad-X/react-chatbot-web) A react based client application for `chatbot-server`
 - [openai-voice-to-voice-bot](https://github.com/Conrad-X/openai-voice-to-voice-bot): OpenAI based voice to voice server built upon multiple approaches
 - [picovoice-chatbot-web](https://github.com/Conrad-X/picovoice-chatbot-web) PicoVoice based voice assistant using `AWS Polly`
 - [twilio-callbot-server](https://github.com/Conrad-X/twilio-callbot-server) A callbot server based on twilio.
